@@ -1,0 +1,4 @@
+Egy állatkert jegyrendszerének létrehozása (diák, felnőtt, nyugdíjas jegyek)
+Egy heti program létrehozása(különböző programok billesztésre egy heti program terv keretébe)
+Ezekre a programokra és napokra történő maximális létszám megadása
+Ha a vásárló kiválasztotta melyik nap tervez menni, ajánlja fel hogy aznap milyen programok elérhetőek
