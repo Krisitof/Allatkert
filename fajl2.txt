@@ -1,0 +1,9 @@
+1,0,3 év alatt
+2,3600,gyerek
+3,3600,diák
+4,6000,felnőtt
+5,5000,nyugdíjas
+6,3000,fogyatékkal élő
+7,2500,diák csopi
+8,5000,felnőtt csopi
+9,4000,nyugdíjas csopi

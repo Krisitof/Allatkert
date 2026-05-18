@@ -1,0 +1,70 @@
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+11,Kertészeti bemutató,30
+12,Kertészeti bemutató,35
+13,Bonsai bemutató,15
+14,Óriásvidrák etetése,40
+15,Nincs Program :(,0
+16,Kisállatkerti állatok bemutatása,20
+17,Madár bemutató,15
+18,Nincs Program :(,0
+19,Denevérek etetése,20
+21,Denevérek etetése,35
+22,Nincs Program :(,0
+23,Madár bemutató,15
+24,Vadállatmentésről előadás,25
+25,Delfin bemutató,50
+26,Kisállatkerti állatok bemutatása,20
+27,Hiéna comedy,15
+28,Fókatréning,30
+29,Nincs Program :(,0
+31,Kertészeti bemutató,30
+32,Kertészeti bemutató,35
+33,Bonsai bemutató,15
+34,Óriásvidrák etetése,40
+35,Nincs Program :(,0
+36,Kisállatkerti állatok bemutatása,20
+37,Madár bemutató,15
+38,Nincs Program :(,0
+39,Denevérek etetése,20
+41,Denevérek etetése,35
+42,Nincs Program :(,0
+43,Madár bemutató,15
+44,Vadállatmentésről előadás,25
+45,Delfin bemutató,50
+46,Kisállatkerti állatok bemutatása,20
+47,Hiéna comedy,15
+48,Fókatréning,30
+49,Nincs Program :(,0
+51,Kertészeti bemutató,30
+52,Kertészeti bemutató,35
+53,Bonsai bemutató,15
+54,Óriásvidrák etetése,40
+55,Nincs Program :(,0
+56,Kisállatkerti állatok bemutatása,20
+57,Madár bemutató,15
+58,Nincs Program :(,0
+59,Nincs Program :(,0
+61,Denevérek etetése,35
+62,Nincs Program :(,0
+63,Madár bemutató,15
+64,Vadállatmentésről előadás,25
+65,Delfin bemutató,50
+66,Kisállatkerti állatok bemutatása,20
+67,Hiéna comedy,15
+68,Fókatréning,30
+69,Denevérek etetése,20
+71,Kertészeti bemutató,30
+72,Kertészeti bemutató,35
+73,Bonsai bemutató,15
+74,Óriásvidrák etetése,40
+75,Nincs Program :(,0
+76,Kisállatkerti állatok bemutatása,20
+77,Madár bemutató,15
+78,Nincs Program :(,0
+79,Nincs Program :(,0
