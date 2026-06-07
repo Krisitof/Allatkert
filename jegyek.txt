@@ -1,0 +1,6 @@
+1,0,3 év alatt
+2,3600,gyerek
+3,3600,diák
+4,6000,felnőtt
+5,5000,nyugdíjas
+6,3000,fogyatékkal élő

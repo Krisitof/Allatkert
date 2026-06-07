@@ -1,0 +1,79 @@
+1,500
+2,500
+3,500
+4,500
+5,500
+6,500
+7,500
+800,Filler
+900,Filler
+1000,Filler
+11,12:00,Kertészeti bemutató,30
+12,12:30,Kertészeti bemutató,35
+13,13:00,Bonsai bemutató,15
+14,13:30,Óriásvidrák etetése,40
+15,14:00,Nincs Program :(,0
+16,14:30,Kisállatkerti állatok bemutatása,20
+17,15:00,Madár bemutató,15
+18,15:30,Nincs Program :(,0
+19,16:00,Denevérek etetése,20
+2000,Filler
+21,12:00,Denevérek etetése,35
+22,12:30,Nincs Program :(,0
+23,13:00,Madár bemutató,15
+24,13:30,Vadállatmentésről előadás,25
+25,14:00,Delfin bemutató,50
+26,14:30,Kisállatkerti állatok bemutatása,20
+27,15:00,Hiéna comedy,15
+28,15:30,Fókatréning,30
+29,16:00,Nincs Program :(,0
+3000,Filler
+31,12:00,Kertészeti bemutató,30
+32,12:30,Kertészeti bemutató,35
+33,13:00,Bonsai bemutató,15
+34,13:30,Óriásvidrák etetése,40
+35,14:00,Nincs Program :(,0
+36,14:30,Kisállatkerti állatok bemutatása,20
+37,15:00,Madár bemutató,15
+38,15:30,Nincs Program :(,0
+39,16:00,Denevérek etetése,20
+4000,Filler
+41,12:00,Denevérek etetése,35
+42,12:30,Nincs Program :(,0
+43,13:00,Madár bemutató,15
+44,13:30,Vadállatmentésről előadás,25
+45,14:00,Delfin bemutató,50
+46,14:30,Kisállatkerti állatok bemutatása,20
+47,15:00,Hiéna comedy,15
+48,15:30,Fókatréning,30
+49,16:00,Nincs Program :(,0
+5000,Filler
+51,12:00,Kertészeti bemutató,30
+52,12:30,Kertészeti bemutató,35
+53,13:00,Bonsai bemutató,15
+54,13:30,Óriásvidrák etetése,40
+55,14:00,Nincs Program :(,0
+56,14:30,Kisállatkerti állatok bemutatása,20
+57,15:00,Madár bemutató,15
+58,15:30,Nincs Program :(,0
+59,16:00,Nincs Program :(,0
+6000,Filler
+61,12:00,Denevérek etetése,35
+62,12:30,Nincs Program :(,0
+63,13:00,Madár bemutató,15
+64,13:30,Vadállatmentésről előadás,25
+65,14:00,Delfin bemutató,50
+66,14:30,Kisállatkerti állatok bemutatása,20
+67,15:00,Hiéna comedy,15
+68,15:30,Fókatréning,30
+69,16:00,Denevérek etetése,20
+7000,Filler
+71,12:00,Kertészeti bemutató,30
+72,12:30,Kertészeti bemutató,35
+73,13:00,Bonsai bemutató,15
+74,13:30,Óriásvidrák etetése,40
+75,14:00,Nincs Program :(,0
+76,14:30,Kisállatkerti állatok bemutatása,20
+77,15:00,Madár bemutató,15
+78,15:30,Nincs Program :(,0
+79,16:00,Nincs Program :(,0
